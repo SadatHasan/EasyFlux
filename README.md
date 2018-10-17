@@ -1,5 +1,6 @@
 # EasyFlux
-LabView based Fluorescence lifetime activated droplet sorting software
+'LabView based Fluorescence lifetime activated droplet sorting software'
+
 The time trace (top) in the front panel is a continuously generating timeline of photon stream coming from the droplets.
 Considering background noise/fluorescence, the threshold for droplet detection can be set by the user.
 The Histogram (middle) is generating a histogram of photon decay from the last passing droplet.
